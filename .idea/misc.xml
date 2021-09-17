@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.29444444444444445" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable-v24/raunded_edittext.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable-v24/rounded_button.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable-v24/splash_image.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable/button.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable/button_rounded.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.29444444444444445" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/drawable/rounded_button.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/activity_main.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/character_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/characters.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/detail_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/fragment_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/fragment_register.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/fragment_sign_in.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/login_screen.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/layout/profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/menu/bottom_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/GeoComputers/AndroidStudioProjects/breakingbad1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
